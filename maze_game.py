@@ -2,7 +2,7 @@ from turtle import *
 from random import random 
 from freegames import line
 
-# simple Maze Game
+# Simple Maze Game
 
 def draw():
     "Draw maze. "
